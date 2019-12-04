@@ -1,0 +1,5 @@
+# PastebinDecoder
+
+This is intended to be a helper method to determine if a given paste is encoded in some way (base64, etc). Some of
+the examples are modifed from the Ixia blog post at https://www.ixiacom.com/company/blog/hiding-plain-sight-decoding-malware-pastebin ,
+others are ones I've run across as I've worked with pastebin data. 
